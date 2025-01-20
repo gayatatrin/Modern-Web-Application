@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<event>
+  <about>
+    <description>TechCon 2024 is a leading conference that brings together the brightest minds in technology, innovation, and entrepreneurship. Join us for an exciting day of learning and networking.</description>
+  </about>
+  <schedule>
+    <session>
+      <time>9:00 AM</time>
+      <title>Opening Keynote</title>
+      <speaker>Dr. Samanth Joshi</speaker>
+    </session>
+    <session>
+      <time>10:30 AM</time>
+      <title>AI in Modern Applications</title>
+      <speaker>Ms. Riya Patel</speaker>
+    </session>
+    <session>
+      <time>1:00 PM</time>
+      <title>Lunch Break</title>
+      <speaker>-</speaker>
+    </session>
+    <session>
+      <time>2:00 PM</time>
+      <title>Future of Blockchain</title>
+      <speaker>Mr. Pankaj Kumar</speaker>
+    </session>
+  </schedule>
+  <speakers>
+    <speaker>
+      <name>Dr. Samanth Joshi</name>
+      <bio>AI Expert and Author</bio>
+    </speaker>
+    <speaker>
+      <name>Ms. Riya Patel</name>
+      <bio>Researcher in AI</bio>
+    </speaker>
+    <speaker>
+      <name>Mr. Pankaj Kumar</name>
+      <bio>Blockchain Enthusiast</bio>
+    </speaker>
+  </speakers>
+</event>
